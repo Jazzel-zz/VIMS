@@ -1,0 +1,121 @@
+﻿@{
+    ViewBag.Title = "MyAccount";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="d-flex justify-content-between">
+                                    <div>
+                                        <h3>Hello @ViewBag.Name !!</h3>
+                                        <div class="d-flex align-items-center">
+                                            <h5 class="mb-0 mr-2 text-muted">Username : @User.Identity.Name</h5>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <button class="btn btn-outline-secondary btn-icon">
+                                            <i class="mdi mdi-comment-processing"><i class="fas fa-user"></i></i>
+                                        </button>
+                                        <button class="btn btn-primary">Request</button>
+                                    </div>
+                                </div>
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="col-4">
+                                            <ul class="nav nav-tabs hover nav-tabs-vertical" role="tablist">
+                                                <li class="nav-item">
+                                                    <a class="nav-link active" id="home-tab-vertical" data-toggle="tab" href="#home-2" role="tab" aria-controls="home-2" aria-selected="true">
+                                                        Profile
+                                                        <i class="mdi mdi-home-outline text-info float-right "><i class="fas fa-user-tie h3"></i></i>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" id="profile-tab-vertical" data-toggle="tab" href="#profile-2" role="tab" aria-controls="profile-2" aria-selected="false">
+                                                        My Vehicles
+                                                        <i class="mdi mdi-account-outline text-danger float-right "><i class="fas fa-car h3" aria-hidden="true"></i></i>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" id="contact-tab-vertical" data-toggle="tab" href="#contact-2" role="tab" aria-controls="contact-2" aria-selected="false">
+                                                        Insurance Policies
+                                                        <i class="mdi mdi-email-outline text-success float-right "><i class="fas fa-file-contract  h3"></i></i>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="col-8">
+                                            <div class="tab-content tab-content-vertical">
+                                                <div class="tab-pane fade show active" id="home-2" role="tabpanel" aria-labelledby="home-tab-vertical">
+                                                    <div class="text-center h1" style="font-family:Pacifico">
+                                                        Profile
+                                                    </div>
+                                                    <br />
+                                                    <ul>
+                                                        <li>
+                                                            <h4>Name: @ViewBag.Name</h4>
+                                                        </li>
+                                                        <li>
+                                                            <h4>Username: @ViewBag.Username</h4>
+                                                        </li>
+                                                        <li>
+                                                            <h4>Email: @ViewBag.Email</h4>
+                                                        </li>
+                                                        <li>
+                                                            <h4>Phone Number: @ViewBag.Phone</h4>
+                                                        </li>
+                                                        <br />
+                                                        <h6>Want to change password ? @Html.ActionLink("Click here !!","ChangePassword", "Manage")</h6>
+
+                                                    </ul>
+
+                                                </div>
+                                                <div class="tab-pane fade" id="profile-2" role="tabpanel" aria-labelledby="profile-tab-vertical">
+                                                    <div class="text-center">
+                                                        <img class="mb-3 w-25 rounded" src="../../../../images/faces/face1.jpg" alt="sample image">
+                                                        <h5 class="mt-0">Adam John</h5>
+                                                        <p class="mb-0">UX specialist</p>
+                                                        <p class="mb-0">Florida</p>
+                                                    </div>
+                                                </div>
+                                                <div class="tab-pane fade" id="contact-2" role="tabpanel" aria-labelledby="contact-tab-vertical">
+                                                    <h4>Contact us </h4>
+                                                    <p>
+                                                        Feel free to contact us if you have any questions!
+                                                    </p>
+                                                    <p>
+                                                        <i class="mdi mdi-phone text-info"></i>
+                                                        +123456789
+                                                    </p>
+                                                    <p>
+                                                        <i class="mdi mdi-email-outline text-success"></i>
+                                                        contactus@example.com
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- content-wrapper ends -->
+    <!-- partial:../../partials/_footer.html -->
+    <footer class="footer">
+        <div class="w-100 clearfix">
+            <span class="text-muted d-block text-center text-sm-left d-sm-inline-block">Copyright © 2018 <a href="http://www.urbanui.com/" target="_blank">Urbanui</a>. All rights reserved.</span>
+            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">Hand-crafted &amp; made with <i class="mdi mdi-heart-outline text-danger"></i></span>
+        </div>
+    </footer>
+    <!-- partial -->
+</div>

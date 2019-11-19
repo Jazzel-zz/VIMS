@@ -1,0 +1,109 @@
+﻿@model VIMS.Models.VehicleInformation
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+<div class="card shadow-lg">
+    <div class="card-body">
+        <div class="row">
+            <div class="col-8">
+                <h1 style="font-family:Pacifico">Vehicle Details</h1>
+            </div>
+            <div class="col-4">
+                <div class="float-right">
+                    <a href="/Vehicleinformations/Edit/@Html.DisplayFor(model => model.VehicleInformationId)" class="btn btn-dark"><i class="fas fa-edit"></i></a>
+                    <a href="/Vehicleinformations/Delete/@Html.DisplayFor(model => model.VehicleInformationId)" class="btn btn-danger"><i class="fa fa-trash" aria-hidden="true"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <hr />
+        <div class="row">
+            <div class="offset-1 col">
+                <h1 style="font-family:Pacifico">
+                    #@Html.DisplayFor(model => model.VehicleInformationId):
+                    @Html.DisplayFor(model => model.VehicleName)
+                </h1>
+                <div style="font-family:'Century Gothic'">
+                    <div class="row">
+                        <div class="col">
+                            <h4>
+                                by @Html.DisplayFor(model => model.ApplicationUser.UserName)
+                            </h4>
+                        </div>
+                    </div>
+                    <hr />
+                    <div class="row">
+                        <div class="col">
+                            <h6 class="font-weight-bold">Images:</h6>
+                            <div class="row m-3">
+                                @foreach (var item in Model.VehicleImages)
+                                {
+                                    <div class="m-2">
+                                        <a class="title" href="/VehicleInformations/Download/?p=@(item.Id + item.Extension)&d=@item.FileName">
+                                            <img src="../../../Data/@(item.Id + item.Extension)" class="img-thumbnail float-left" style="width:200px;height:120px;" />
+                                        </a>
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                    <hr />
+                    <h6 class="font-weight-bold">Basic Details:</h6>
+                    <div class="row">
+                        <div class="col">
+                            <h6>
+                                Rate: $@Html.DisplayFor(model => model.VehicleRate)
+                            </h6>
+                        </div>
+                        <div class="col">
+                            <h6>
+                                Color: @Html.DisplayFor(model => model.VehicleColor)
+                            </h6>
+                        </div>
+                        <div class="col">
+                            <h6>
+                                Model: @Html.DisplayFor(model => model.VehicleModel)
+                            </h6>
+                        </div>
+
+                    </div>
+                    <hr />
+                    <h6 class="font-weight-bold">Complex Details:</h6>
+                    <div class="row">
+                        <div class="col">
+                            <p>
+                                Vehicle Number: @Html.DisplayFor(model => model.VehicleNumber)
+                            </p>
+                        </div>
+                        <div class="col">
+                            <p>
+                                Body Number: @Html.DisplayFor(model => model.VehicleBodyNumber)
+                            </p>
+                        </div>
+                        <div class="col">
+                            <p>
+                                Engine Number: @Html.DisplayFor(model => model.VehicleEngineNumber)
+                            </p>
+                        </div>
+                    </div>
+                    <hr />
+                    <h6 class="font-weight-bold">Description:</h6>
+                    <div class="row">
+                        <div class="col">
+                            <p>
+                                @Html.DisplayFor(model => model.VehicleDescription)
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-1"></div>
+        </div>
+        <hr />
+    </div>
+</div>
+
+

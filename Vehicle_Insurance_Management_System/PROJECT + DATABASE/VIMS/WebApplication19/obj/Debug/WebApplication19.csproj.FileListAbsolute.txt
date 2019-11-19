@@ -1,0 +1,339 @@
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\csc.exe
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\System.Collections.Immutable.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\vbc.exe
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe.config
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\WebApplication19.dll.config
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\WebApplication19.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\WebApplication19.pdb
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Antlr3.Runtime.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\EntityFramework.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Web.Infrastructure.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Newtonsoft.Json.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Owin.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.Helpers.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.Mvc.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.Optimization.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.Razor.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.WebPages.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\WebGrease.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.Helpers.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.Mvc.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.Optimization.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.Razor.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.WebPages.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Antlr3.Runtime.pdb
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Newtonsoft.Json.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\EntityFramework.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csprojResolveAssemblyReference.cache
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\obj\Debug\WebApplication19.dll
+c:\users\int\documents\visual studio 2015\Projects\WebApplication19\WebApplication19\obj\Debug\WebApplication19.pdb
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\csc.exe
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\vbc.exe
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\WebApplication19.dll.config
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\WebApplication19.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\WebApplication19.pdb
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Antlr3.Runtime.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\EntityFramework.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Newtonsoft.Json.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Owin.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\System.Web.Helpers.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\System.Web.Mvc.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\System.Web.Optimization.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\System.Web.Razor.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\System.Web.WebPages.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\WebGrease.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\System.Web.Helpers.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\System.Web.Mvc.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\System.Web.Optimization.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\System.Web.Razor.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\System.Web.WebPages.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Antlr3.Runtime.pdb
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Newtonsoft.Json.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\EntityFramework.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csprojAssemblyReference.cache
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csproj.CoreCompileInputs.cache
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csproj.CopyComplete
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\obj\Debug\WebApplication19.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\obj\Debug\WebApplication19.pdb
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\BouncyCastle.Crypto.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\MailKit.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\MimeKit.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\MailKit.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\MimeKit.xml
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\csc.exe.config
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\csc.rsp
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\csi.exe
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\csi.rsp
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\System.AppContext.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\vbc.exe.config
+C:\Users\jazze\OneDrive\Desktop\WebApplication19\WebApplication19\bin\roslyn\vbc.rsp
+E:\VS\WebApplication19\WebApplication19\bin\WebApplication19.dll.config
+E:\VS\WebApplication19\WebApplication19\bin\WebApplication19.dll
+E:\VS\WebApplication19\WebApplication19\bin\WebApplication19.pdb
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\csc.exe
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\csc.exe.config
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\csc.rsp
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\csi.exe
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\csi.rsp
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\System.AppContext.dll
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\System.Collections.Immutable.dll
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\System.IO.FileSystem.dll
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\System.Reflection.Metadata.dll
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\vbc.exe
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\vbc.exe.config
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\vbc.rsp
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe
+E:\VS\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe.config
+E:\VS\WebApplication19\WebApplication19\bin\Antlr3.Runtime.dll
+E:\VS\WebApplication19\WebApplication19\bin\BouncyCastle.Crypto.dll
+E:\VS\WebApplication19\WebApplication19\bin\EntityFramework.dll
+E:\VS\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.dll
+E:\VS\WebApplication19\WebApplication19\bin\MailKit.dll
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.dll
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.dll
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.dll
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.dll
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.dll
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.dll
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.dll
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.dll
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Web.Infrastructure.dll
+E:\VS\WebApplication19\WebApplication19\bin\MimeKit.dll
+E:\VS\WebApplication19\WebApplication19\bin\Newtonsoft.Json.dll
+E:\VS\WebApplication19\WebApplication19\bin\Owin.dll
+E:\VS\WebApplication19\WebApplication19\bin\System.Web.Helpers.dll
+E:\VS\WebApplication19\WebApplication19\bin\System.Web.Mvc.dll
+E:\VS\WebApplication19\WebApplication19\bin\System.Web.Optimization.dll
+E:\VS\WebApplication19\WebApplication19\bin\System.Web.Razor.dll
+E:\VS\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.dll
+E:\VS\WebApplication19\WebApplication19\bin\System.Web.WebPages.dll
+E:\VS\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.dll
+E:\VS\WebApplication19\WebApplication19\bin\WebGrease.dll
+E:\VS\WebApplication19\WebApplication19\bin\Antlr3.Runtime.pdb
+E:\VS\WebApplication19\WebApplication19\bin\EntityFramework.xml
+E:\VS\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.xml
+E:\VS\WebApplication19\WebApplication19\bin\MailKit.xml
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.xml
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.xml
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.xml
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.xml
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.xml
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.xml
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.xml
+E:\VS\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.xml
+E:\VS\WebApplication19\WebApplication19\bin\MimeKit.xml
+E:\VS\WebApplication19\WebApplication19\bin\Newtonsoft.Json.xml
+E:\VS\WebApplication19\WebApplication19\bin\System.Web.Helpers.xml
+E:\VS\WebApplication19\WebApplication19\bin\System.Web.Mvc.xml
+E:\VS\WebApplication19\WebApplication19\bin\System.Web.Razor.xml
+E:\VS\WebApplication19\WebApplication19\bin\System.Web.WebPages.xml
+E:\VS\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.xml
+E:\VS\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.xml
+E:\VS\WebApplication19\WebApplication19\bin\System.Web.Optimization.xml
+E:\VS\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csprojAssemblyReference.cache
+E:\VS\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csproj.CoreCompileInputs.cache
+E:\VS\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csproj.CopyComplete
+E:\VS\WebApplication19\WebApplication19\obj\Debug\WebApplication19.dll
+E:\VS\WebApplication19\WebApplication19\obj\Debug\WebApplication19.pdb
+G:\WebApplication19\WebApplication19\bin\WebApplication19.dll.config
+G:\WebApplication19\WebApplication19\bin\WebApplication19.dll
+G:\WebApplication19\WebApplication19\bin\WebApplication19.pdb
+G:\WebApplication19\WebApplication19\bin\roslyn\csc.exe
+G:\WebApplication19\WebApplication19\bin\roslyn\csc.exe.config
+G:\WebApplication19\WebApplication19\bin\roslyn\csc.rsp
+G:\WebApplication19\WebApplication19\bin\roslyn\csi.exe
+G:\WebApplication19\WebApplication19\bin\roslyn\csi.rsp
+G:\WebApplication19\WebApplication19\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\WebApplication19\WebApplication19\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\WebApplication19\WebApplication19\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\WebApplication19\WebApplication19\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\WebApplication19\WebApplication19\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\WebApplication19\WebApplication19\bin\roslyn\System.AppContext.dll
+G:\WebApplication19\WebApplication19\bin\roslyn\System.Collections.Immutable.dll
+G:\WebApplication19\WebApplication19\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\WebApplication19\WebApplication19\bin\roslyn\System.IO.FileSystem.dll
+G:\WebApplication19\WebApplication19\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\WebApplication19\WebApplication19\bin\roslyn\System.Reflection.Metadata.dll
+G:\WebApplication19\WebApplication19\bin\roslyn\vbc.exe
+G:\WebApplication19\WebApplication19\bin\roslyn\vbc.exe.config
+G:\WebApplication19\WebApplication19\bin\roslyn\vbc.rsp
+G:\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe
+G:\WebApplication19\WebApplication19\bin\roslyn\VBCSCompiler.exe.config
+G:\WebApplication19\WebApplication19\bin\Antlr3.Runtime.dll
+G:\WebApplication19\WebApplication19\bin\BouncyCastle.Crypto.dll
+G:\WebApplication19\WebApplication19\bin\EntityFramework.dll
+G:\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.dll
+G:\WebApplication19\WebApplication19\bin\MailKit.dll
+G:\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.dll
+G:\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.dll
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.dll
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.dll
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.dll
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.dll
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.dll
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.dll
+G:\WebApplication19\WebApplication19\bin\Microsoft.Web.Infrastructure.dll
+G:\WebApplication19\WebApplication19\bin\MimeKit.dll
+G:\WebApplication19\WebApplication19\bin\Newtonsoft.Json.dll
+G:\WebApplication19\WebApplication19\bin\Owin.dll
+G:\WebApplication19\WebApplication19\bin\System.Web.Helpers.dll
+G:\WebApplication19\WebApplication19\bin\System.Web.Mvc.dll
+G:\WebApplication19\WebApplication19\bin\System.Web.Optimization.dll
+G:\WebApplication19\WebApplication19\bin\System.Web.Razor.dll
+G:\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.dll
+G:\WebApplication19\WebApplication19\bin\System.Web.WebPages.dll
+G:\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.dll
+G:\WebApplication19\WebApplication19\bin\WebGrease.dll
+G:\WebApplication19\WebApplication19\bin\Antlr3.Runtime.pdb
+G:\WebApplication19\WebApplication19\bin\EntityFramework.xml
+G:\WebApplication19\WebApplication19\bin\EntityFramework.SqlServer.xml
+G:\WebApplication19\WebApplication19\bin\MailKit.xml
+G:\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Core.xml
+G:\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\WebApplication19\WebApplication19\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\WebApplication19\WebApplication19\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.xml
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.xml
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Cookies.xml
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Facebook.xml
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Google.xml
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.OAuth.xml
+G:\WebApplication19\WebApplication19\bin\Microsoft.Owin.Security.Twitter.xml
+G:\WebApplication19\WebApplication19\bin\MimeKit.xml
+G:\WebApplication19\WebApplication19\bin\Newtonsoft.Json.xml
+G:\WebApplication19\WebApplication19\bin\System.Web.Helpers.xml
+G:\WebApplication19\WebApplication19\bin\System.Web.Mvc.xml
+G:\WebApplication19\WebApplication19\bin\System.Web.Razor.xml
+G:\WebApplication19\WebApplication19\bin\System.Web.WebPages.xml
+G:\WebApplication19\WebApplication19\bin\System.Web.WebPages.Deployment.xml
+G:\WebApplication19\WebApplication19\bin\System.Web.WebPages.Razor.xml
+G:\WebApplication19\WebApplication19\bin\System.Web.Optimization.xml
+G:\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csprojAssemblyReference.cache
+G:\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csproj.CoreCompileInputs.cache
+G:\WebApplication19\WebApplication19\obj\Debug\WebApplication19.csproj.CopyComplete
+G:\WebApplication19\WebApplication19\obj\Debug\WebApplication19.dll
+G:\WebApplication19\WebApplication19\obj\Debug\WebApplication19.pdb
